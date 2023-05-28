@@ -1,0 +1,23 @@
+{
+  "name": "tailwind.project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "build-css": "tailwindcss build src/tailwind.css -o public/styles.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ahmed-Sabit555/tailwindcss.project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ahmed-Sabit555/tailwindcss.project/issues"
+  },
+  "homepage": "https://github.com/Ahmed-Sabit555/tailwindcss.project#readme",
+  "dependencies": {
+    "tailwindcss": "^3.3.2"
+  }
+}
